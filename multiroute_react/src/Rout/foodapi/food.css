@@ -1,0 +1,20 @@
+.bglavendra{
+   background-color: #967bb6; 
+
+}
+
+.text-blue{
+    color:black;
+}
+.text-white{
+    color: white;
+}
+.bgblack{
+    background-color: rgb(173, 173, 173);
+    opacity:0.8px;
+  
+}
+.cardborder{
+    border:1px solid rgb(31, 31, 219);
+}
+
